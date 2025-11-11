@@ -7,7 +7,7 @@ Niri is a "scrollable-tiling" wayland compositor that masquerades as a window ma
 - Dynamic workspaces like in GNOME
 - An Overview that zooms out workspaces and windows
 - Built-in screenshot UI
-- Per Monitor Workspaces (Shoutout to The Linux Cast because I know he loves that so much, and he loves xwayland-sattelite.)
+- Per Monitor Workspaces (Shoutout to The Linux Cast because I know he loves that so much, and he loves xwayland-satellite.)
 - and much more.
 
 #+begin_quote
@@ -93,11 +93,11 @@ We're going to use Noctalia Shell today as a bar, because I've used waybar for a
 - swaybg (for wallpapers)
 - firefox (web browser)
 - ttf-jetbrains-mono-nerd (font)
-- xwayland-sattelite
+- xwayland-satellite
 
 So let's install these with pacman -Sy
 #+begin_src sh
-sudo pacman -Sy alacritty fuzzel swaybg firefox ttf-jetbrains-mono-nerd xwayland-sattelite
+sudo pacman -Sy alacritty fuzzel swaybg firefox ttf-jetbrains-mono-nerd xwayland-satellite
 #+end_src
 
 Alright, lets jump into niri by typing 'Niri'
